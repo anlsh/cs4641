@@ -1,0 +1,172 @@
+learning a decision tree with bag_size=200
+train_err: 0.324761904762
+test_err: 0.398888888889
+---
+learning a decision tree with bag_size=400
+train_err: 0.308095238095
+test_err: 0.424444444444
+---
+learning a decision tree with bag_size=600
+train_err: 0.334761904762
+test_err: 0.396666666667
+---
+learning a decision tree with bag_size=800
+train_err: 0.33380952381
+test_err: 0.377777777778
+---
+learning a decision tree with bag_size=1000
+train_err: 0.335238095238
+test_err: 0.388888888889
+---
+learning a decision tree with bag_size=1200
+train_err: 0.322857142857
+test_err: 0.401111111111
+---
+learning a decision tree with bag_size=1400
+train_err: 0.301428571429
+test_err: 0.397777777778
+---
+learning a decision tree with bag_size=1600
+train_err: 0.326666666667
+test_err: 0.387777777778
+---
+learning a decision tree with bag_size=1800
+train_err: 0.34
+test_err: 0.392222222222
+---
+learning a decision tree with bag_size=2000
+train_err: 0.327619047619
+test_err: 0.401111111111
+---
+learning a decision tree with bag_size=2200
+train_err: 0.33
+test_err: 0.378888888889
+---
+learning a decision tree with bag_size=2400
+train_err: 0.321428571429
+test_err: 0.4
+---
+learning a decision tree with bag_size=2600
+train_err: 0.329523809524
+test_err: 0.398888888889
+---
+learning a decision tree with bag_size=2800
+train_err: 0.324761904762
+test_err: 0.403333333333
+---
+learning a decision tree with bag_size=3000
+train_err: 0.322380952381
+test_err: 0.41
+---
+learning a decision tree with bag_size=3200
+train_err: 0.32619047619
+test_err: 0.388888888889
+---
+learning a decision tree with bag_size=3400
+train_err: 0.331904761905
+test_err: 0.427777777778
+---
+learning a decision tree with bag_size=3600
+train_err: 0.29
+test_err: 0.417777777778
+---
+learning a decision tree with bag_size=3800
+train_err: 0.318571428571
+test_err: 0.402222222222
+---
+learning a decision tree with bag_size=4000
+train_err: 0.312857142857
+test_err: 0.43
+---
+learning a decision tree with bag_size=4200
+train_err: 0.321428571429
+test_err: 0.416666666667
+---
+learning a decision tree with bag_size=4400
+train_err: 0.320476190476
+test_err: 0.413333333333
+---
+learning a decision tree with bag_size=4600
+train_err: 0.330952380952
+test_err: 0.407777777778
+---
+learning a decision tree with bag_size=4800
+train_err: 0.297619047619
+test_err: 0.427777777778
+---
+learning a decision tree with bag_size=5000
+train_err: 0.325238095238
+test_err: 0.42
+---
+learning a decision tree with bag_size=5200
+train_err: 0.318571428571
+test_err: 0.447777777778
+---
+learning a decision tree with bag_size=5400
+train_err: 0.298571428571
+test_err: 0.391111111111
+---
+learning a decision tree with bag_size=5600
+train_err: 0.347619047619
+test_err: 0.41
+---
+learning a decision tree with bag_size=5800
+train_err: 0.332380952381
+test_err: 0.394444444444
+---
+learning a decision tree with bag_size=6000
+train_err: 0.320476190476
+test_err: 0.404444444444
+---
+learning a decision tree with bag_size=6200
+train_err: 0.329047619048
+test_err: 0.371111111111
+---
+learning a decision tree with bag_size=6400
+train_err: 0.324761904762
+test_err: 0.41
+---
+learning a decision tree with bag_size=6600
+train_err: 0.309523809524
+test_err: 0.421111111111
+---
+learning a decision tree with bag_size=6800
+train_err: 0.324761904762
+test_err: 0.413333333333
+---
+learning a decision tree with bag_size=7000
+train_err: 0.338095238095
+test_err: 0.414444444444
+---
+learning a decision tree with bag_size=7200
+train_err: 0.325238095238
+test_err: 0.412222222222
+---
+learning a decision tree with bag_size=7400
+train_err: 0.323333333333
+test_err: 0.423333333333
+---
+learning a decision tree with bag_size=7600
+train_err: 0.324761904762
+test_err: 0.406666666667
+---
+learning a decision tree with bag_size=7800
+train_err: 0.317142857143
+test_err: 0.414444444444
+---
+learning a decision tree with bag_size=8000
+train_err: 0.308571428571
+test_err: 0.41
+---
+learning a decision tree with bag_size=8200
+train_err: 0.323333333333
+test_err: 0.401111111111
+---
+learning a decision tree with bag_size=8400
+train_err: 0.335714285714
+test_err: 0.415555555556
+---
+learning a decision tree with bag_size=8600
+train_err: 0.348095238095
+test_err: 0.363333333333
+---

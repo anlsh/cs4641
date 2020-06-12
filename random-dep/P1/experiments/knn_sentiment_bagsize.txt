@@ -1,0 +1,173 @@
+learning a kNN classifier with bag_size=200 (fixed n_neighbors=5)
+train_err: 0.279047619048
+test_err: 0.41
+---
+learning a kNN classifier with bag_size=400 (fixed n_neighbors=5)
+train_err: 0.24619047619
+test_err: 0.427777777778
+---
+learning a kNN classifier with bag_size=600 (fixed n_neighbors=5)
+train_err: 0.236666666667
+test_err: 0.432222222222
+---
+learning a kNN classifier with bag_size=800 (fixed n_neighbors=5)
+train_err: 0.26619047619
+test_err: 0.422222222222
+---
+learning a kNN classifier with bag_size=1000 (fixed n_neighbors=5)
+train_err: 0.257142857143
+test_err: 0.425555555556
+---
+learning a kNN classifier with bag_size=1200 (fixed n_neighbors=5)
+train_err: 0.238571428571
+test_err: 0.397777777778
+---
+learning a kNN classifier with bag_size=1400 (fixed n_neighbors=5)
+train_err: 0.246666666667
+test_err: 0.39
+---
+learning a kNN classifier with bag_size=1600 (fixed n_neighbors=5)
+train_err: 0.261904761905
+test_err: 0.41
+---
+learning a kNN classifier with bag_size=1800 (fixed n_neighbors=5)
+train_err: 0.269047619048
+test_err: 0.405555555556
+---
+learning a kNN classifier with bag_size=2000 (fixed n_neighbors=5)
+train_err: 0.252857142857
+test_err: 0.421111111111
+---
+learning a kNN classifier with bag_size=2200 (fixed n_neighbors=5)
+train_err: 0.233333333333
+test_err: 0.407777777778
+---
+learning a kNN classifier with bag_size=2400 (fixed n_neighbors=5)
+train_err: 0.264761904762
+test_err: 0.414444444444
+---
+learning a kNN classifier with bag_size=2600 (fixed n_neighbors=5)
+train_err: 0.251428571429
+test_err: 0.408888888889
+---
+learning a kNN classifier with bag_size=2800 (fixed n_neighbors=5)
+train_err: 0.255238095238
+test_err: 0.438888888889
+---
+learning a kNN classifier with bag_size=3000 (fixed n_neighbors=5)
+train_err: 0.259523809524
+test_err: 0.402222222222
+---
+learning a kNN classifier with bag_size=3200 (fixed n_neighbors=5)
+train_err: 0.248571428571
+test_err: 0.395555555556
+---
+learning a kNN classifier with bag_size=3400 (fixed n_neighbors=5)
+train_err: 0.264761904762
+test_err: 0.415555555556
+---
+learning a kNN classifier with bag_size=3600 (fixed n_neighbors=5)
+train_err: 0.250476190476
+test_err: 0.425555555556
+---
+learning a kNN classifier with bag_size=3800 (fixed n_neighbors=5)
+train_err: 0.243333333333
+test_err: 0.415555555556
+---
+learning a kNN classifier with bag_size=4000 (fixed n_neighbors=5)
+train_err: 0.239523809524
+test_err: 0.385555555556
+---
+learning a kNN classifier with bag_size=4200 (fixed n_neighbors=5)
+train_err: 0.257619047619
+test_err: 0.383333333333
+---
+learning a kNN classifier with bag_size=4400 (fixed n_neighbors=5)
+train_err: 0.25380952381
+test_err: 0.408888888889
+---
+learning a kNN classifier with bag_size=4600 (fixed n_neighbors=5)
+train_err: 0.235714285714
+test_err: 0.391111111111
+---
+learning a kNN classifier with bag_size=4800 (fixed n_neighbors=5)
+train_err: 0.249523809524
+test_err: 0.414444444444
+---
+learning a kNN classifier with bag_size=5000 (fixed n_neighbors=5)
+train_err: 0.25619047619
+test_err: 0.384444444444
+---
+learning a kNN classifier with bag_size=5200 (fixed n_neighbors=5)
+train_err: 0.261428571429
+test_err: 0.408888888889
+---
+learning a kNN classifier with bag_size=5400 (fixed n_neighbors=5)
+train_err: 0.235714285714
+test_err: 0.421111111111
+---
+learning a kNN classifier with bag_size=5600 (fixed n_neighbors=5)
+train_err: 0.255238095238
+test_err: 0.403333333333
+---
+learning a kNN classifier with bag_size=5800 (fixed n_neighbors=5)
+train_err: 0.24380952381
+test_err: 0.411111111111
+---
+learning a kNN classifier with bag_size=6000 (fixed n_neighbors=5)
+train_err: 0.249047619048
+test_err: 0.424444444444
+---
+learning a kNN classifier with bag_size=6200 (fixed n_neighbors=5)
+train_err: 0.245238095238
+test_err: 0.403333333333
+---
+learning a kNN classifier with bag_size=6400 (fixed n_neighbors=5)
+train_err: 0.24380952381
+test_err: 0.405555555556
+---
+learning a kNN classifier with bag_size=6600 (fixed n_neighbors=5)
+train_err: 0.236666666667
+test_err: 0.403333333333
+---
+learning a kNN classifier with bag_size=6800 (fixed n_neighbors=5)
+train_err: 0.23619047619
+test_err: 0.401111111111
+---
+learning a kNN classifier with bag_size=7000 (fixed n_neighbors=5)
+train_err: 0.27380952381
+test_err: 0.41
+---
+learning a kNN classifier with bag_size=7200 (fixed n_neighbors=5)
+train_err: 0.239523809524
+test_err: 0.431111111111
+---
+learning a kNN classifier with bag_size=7400 (fixed n_neighbors=5)
+train_err: 0.248095238095
+test_err: 0.405555555556
+---
+learning a kNN classifier with bag_size=7600 (fixed n_neighbors=5)
+train_err: 0.260476190476
+test_err: 0.416666666667
+---
+learning a kNN classifier with bag_size=7800 (fixed n_neighbors=5)
+train_err: 0.251904761905
+test_err: 0.388888888889
+---
+learning a kNN classifier with bag_size=8000 (fixed n_neighbors=5)
+train_err: 0.245238095238
+test_err: 0.392222222222
+---
+learning a kNN classifier with bag_size=8200 (fixed n_neighbors=5)
+train_err: 0.248095238095
+test_err: 0.413333333333
+---
+learning a kNN classifier with bag_size=8400 (fixed n_neighbors=5)
+train_err: 0.257142857143
+test_err: 0.392222222222
+---
+learning a kNN classifier with bag_size=8600 (fixed n_neighbors=5)
+train_err: 0.235714285714
+test_err: 0.41
+---
+

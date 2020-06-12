@@ -1,0 +1,55 @@
+learning a neural net with bag_size=200
+getting data building net training validating
+train_err: 0.403306710551
+test_err: 0.25467853277
+---
+learning a neural net with bag_size=400
+getting data building net training validating
+train_err: 0.276034135507
+test_err: 0.272653758263
+---
+learning a neural net with bag_size=600
+getting data building net training validating
+train_err: 1.1606831888
+test_err: 0.491127717128
+---
+learning a neural net with bag_size=800
+getting data building net training validating
+train_err: 0.46058794599
+test_err: 0.446695536423
+---
+learning a neural net with bag_size=1000
+getting data building net training validating
+train_err: 0.786454334141
+test_err: 0.95328835971
+---
+learning a neural net with bag_size=1200
+getting data building net training validating
+train_err: 0.266513265366
+test_err: 0.277571705831
+---
+learning a neural net with bag_size=1400
+getting data building net training validating
+train_err: 1.95128885016
+test_err: 6.15201620398
+---
+learning a neural net with bag_size=1600
+getting data building net training validating
+train_err: 0.605159460255
+test_err: 0.44997278676
+---
+learning a neural net with bag_size=1800
+getting data building net training validating
+train_err: 0.426347165783
+test_err: 6.48625336409
+---
+learning a neural net with bag_size=2000
+getting data building net training validating
+train_err: 8.54870979974
+test_err: 1.42899721504
+---
+learning a neural net with bag_size=2200
+getting data building net training validating
+train_err: 0.485724424508
+test_err: 0.336095110999
+---

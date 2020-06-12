@@ -1,0 +1,123 @@
+training_set_max_size: 2100 
+
+learning a decision tree with training_set_size=210
+train_err: 0.495238095238
+test_err: 0.552380952381
+---
+learning a decision tree with training_set_size=273
+train_err: 0.483516483516
+test_err: 0.534798534799
+---
+learning a decision tree with training_set_size=336
+train_err: 0.485119047619
+test_err: 0.547619047619
+---
+learning a decision tree with training_set_size=399
+train_err: 0.49373433584
+test_err: 0.538847117794
+---
+learning a decision tree with training_set_size=462
+train_err: 0.487012987013
+test_err: 0.538961038961
+---
+learning a decision tree with training_set_size=525
+train_err: 0.48380952381
+test_err: 0.525714285714
+---
+learning a decision tree with training_set_size=588
+train_err: 0.477891156463
+test_err: 0.520408163265
+---
+learning a decision tree with training_set_size=651
+train_err: 0.47158218126
+test_err: 0.522273425499
+---
+learning a decision tree with training_set_size=714
+train_err: 0.47619047619
+test_err: 0.525210084034
+---
+learning a decision tree with training_set_size=777
+train_err: 0.47619047619
+test_err: 0.522522522523
+---
+learning a decision tree with training_set_size=840
+train_err: 0.475
+test_err: 0.515476190476
+---
+learning a decision tree with training_set_size=903
+train_err: 0.468438538206
+test_err: 0.514444444444
+---
+learning a decision tree with training_set_size=966
+train_err: 0.465838509317
+test_err: 0.512222222222
+---
+learning a decision tree with training_set_size=1029
+train_err: 0.460641399417
+test_err: 0.512222222222
+---
+learning a decision tree with training_set_size=1092
+train_err: 0.460622710623
+test_err: 0.515555555556
+---
+learning a decision tree with training_set_size=1155
+train_err: 0.455411255411
+test_err: 0.514444444444
+---
+learning a decision tree with training_set_size=1218
+train_err: 0.452380952381
+test_err: 0.507777777778
+---
+learning a decision tree with training_set_size=1281
+train_err: 0.453551912568
+test_err: 0.513333333333
+---
+learning a decision tree with training_set_size=1344
+train_err: 0.459821428571
+test_err: 0.514444444444
+---
+learning a decision tree with training_set_size=1407
+train_err: 0.4513148543
+test_err: 0.501111111111
+---
+learning a decision tree with training_set_size=1470
+train_err: 0.450340136054
+test_err: 0.503333333333
+---
+learning a decision tree with training_set_size=1533
+train_err: 0.450750163079
+test_err: 0.508888888889
+---
+learning a decision tree with training_set_size=1596
+train_err: 0.443609022556
+test_err: 0.496666666667
+---
+learning a decision tree with training_set_size=1659
+train_err: 0.428571428571
+test_err: 0.483333333333
+---
+learning a decision tree with training_set_size=1722
+train_err: 0.429152148664
+test_err: 0.487777777778
+---
+learning a decision tree with training_set_size=1785
+train_err: 0.424649859944
+test_err: 0.475555555556
+---
+learning a decision tree with training_set_size=1848
+train_err: 0.42803030303
+test_err: 0.468888888889
+---
+learning a decision tree with training_set_size=1911
+train_err: 0.412872841444
+test_err: 0.451111111111
+---
+learning a decision tree with training_set_size=1974
+train_err: 0.40780141844
+test_err: 0.452222222222
+---
+learning a decision tree with training_set_size=2037
+train_err: 0.40206185567
+test_err: 0.451111111111
+---
+

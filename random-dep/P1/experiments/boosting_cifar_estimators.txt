@@ -1,0 +1,29 @@
+learning a decision tree with n_estimators=5 (fixed max_depth=10)
+train_err: 7.560075
+test_err: 13.4512
+---
+learning a decision tree with n_estimators=10 (fixed max_depth=10)
+train_err: 6.812525
+test_err: 13.42425
+---
+learning a decision tree with n_estimators=15 (fixed max_depth=10)
+train_err: 6.221125
+test_err: 13.1655
+---
+learning a decision tree with n_estimators=20 (fixed max_depth=10)
+train_err: 6.135125
+test_err: 12.85405
+---
+learning a decision tree with n_estimators=25 (fixed max_depth=10)
+train_err: 5.835625
+test_err: 12.91195
+---
+learning a decision tree with n_estimators=30 (fixed max_depth=10)
+train_err: 5.808275
+test_err: 12.7628
+---
+learning a decision tree with n_estimators=35 (fixed max_depth=10)
+train_err: 5.881625
+test_err: 12.7534
+---
+

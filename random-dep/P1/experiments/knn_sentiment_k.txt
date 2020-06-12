@@ -1,0 +1,20 @@
+learning a kNN classifier with n_neighbors=3
+train_err: 0.203333333333
+test_err: 0.427777777778
+---
+learning a kNN classifier with n_neighbors=4
+train_err: 0.23
+test_err: 0.413333333333
+---
+learning a kNN classifier with n_neighbors=5
+train_err: 0.254761904762
+test_err: 0.416666666667
+---
+learning a kNN classifier with n_neighbors=6
+train_err: 0.256666666667
+test_err: 0.42
+---
+learning a kNN classifier with n_neighbors=7
+train_err: 0.274285714286
+test_err: 0.425555555556
+---

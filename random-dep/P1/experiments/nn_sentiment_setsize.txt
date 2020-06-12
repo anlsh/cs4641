@@ -1,0 +1,152 @@
+training_set_max_size: 2100 
+
+learning a neural net with training_set_size=210
+getting data building net training validating
+train_err: 0.301604679917
+test_err: 3.47774353299
+---
+learning a neural net with training_set_size=273
+getting data building net training validating
+train_err: 0.484264420866
+test_err: 1.1129419413
+---
+learning a neural net with training_set_size=336
+getting data building net training validating
+train_err: 0.491579717613
+test_err: 0.336780461147
+---
+learning a neural net with training_set_size=399
+getting data building net training validating
+train_err: 0.730740342658
+test_err: 2.46557002283
+---
+learning a neural net with training_set_size=462
+getting data building net training validating
+train_err: 0.285813235641
+test_err: 0.293638129571
+---
+learning a neural net with training_set_size=525
+getting data building net training validating
+train_err: 0.5069247085
+test_err: 0.25064623013
+---
+learning a neural net with training_set_size=588
+getting data building net training validating
+train_err: 0.556379540259
+test_err: 0.417147815575
+---
+learning a neural net with training_set_size=651
+getting data building net training validating
+train_err: 0.31378388397
+test_err: 0.287264744048
+---
+learning a neural net with training_set_size=714
+getting data building net training validating
+train_err: 0.629268564354
+test_err: 0.872385913042
+---
+learning a neural net with training_set_size=777
+getting data building net training validating
+train_err: 0.290180614254
+test_err: 0.2764022161
+---
+learning a neural net with training_set_size=840
+getting data building net training validating
+train_err: 0.527412401481
+test_err: 2.40779509175
+---
+learning a neural net with training_set_size=903
+getting data building net training validating
+train_err: 0.265275922049
+test_err: 0.664319789259
+---
+learning a neural net with training_set_size=966
+getting data building net training validating
+train_err: 0.618090558517
+test_err: 0.266089153609
+---
+learning a neural net with training_set_size=1029
+getting data building net training validating
+train_err: 0.658612244238
+test_err: 0.313599857262
+---
+learning a neural net with training_set_size=1092
+getting data building net training validating
+train_err: 0.411110606234
+test_err: 0.644544779246
+---
+learning a neural net with training_set_size=1155
+getting data building net training validating
+train_err: 0.704221694116
+test_err: 0.714636647502
+---
+learning a neural net with training_set_size=1218
+getting data building net training validating
+train_err: 0.271988530486
+test_err: 0.401031849277
+---
+learning a neural net with training_set_size=1281
+getting data building net training validating
+train_err: 0.253075222332
+test_err: 0.356166695205
+---
+learning a neural net with training_set_size=1344
+getting data building net training validating
+train_err: 0.28665427077
+test_err: 0.591884293937
+---
+learning a neural net with training_set_size=1407
+getting data building net training validating
+train_err: 0.611918822702
+test_err: 0.254184848396
+---
+learning a neural net with training_set_size=1470
+getting data building net training validating
+train_err: 1.09511158581
+test_err: 0.271522469956
+---
+learning a neural net with training_set_size=1533
+getting data building net training validating
+train_err: 1.08162943447
+test_err: 0.89113797539
+---
+learning a neural net with training_set_size=1596
+getting data building net training validating
+train_err: 0.707017264494
+test_err: 0.783203174442
+---
+learning a neural net with training_set_size=1659
+getting data building net training validating
+train_err: 0.516216253173
+test_err: 0.648646333082
+---
+learning a neural net with training_set_size=1722
+getting data building net training validating
+train_err: 0.252935362806
+test_err: 0.25083669004
+---
+learning a neural net with training_set_size=1785
+getting data building net training validating
+train_err: 1.7501231175
+test_err: 0.351471197996
+---
+learning a neural net with training_set_size=1848
+getting data building net training validating
+train_err: 0.396667231384
+test_err: 0.776032970793
+---
+learning a neural net with training_set_size=1911
+getting data building net training validating
+train_err: 1.17156231947
+test_err: 1.161671431
+---
+learning a neural net with training_set_size=1974
+getting data building net training validating
+train_err: 0.249944055011
+test_err: 0.453558600513
+---
+learning a neural net with training_set_size=2037
+getting data building net training validating
+train_err: 0.371344945604
+test_err: 0.261077796292
+---

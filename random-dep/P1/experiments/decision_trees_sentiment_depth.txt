@@ -1,0 +1,192 @@
+learning a decision tree with max_depth=2
+train_err: 0.436666666667
+test_err: 0.444444444444
+---
+learning a decision tree with max_depth=3
+train_err: 0.412380952381
+test_err: 0.424444444444
+---
+learning a decision tree with max_depth=4
+train_err: 0.399523809524
+test_err: 0.431111111111
+---
+learning a decision tree with max_depth=5
+train_err: 0.383333333333
+test_err: 0.428888888889
+---
+learning a decision tree with max_depth=6
+train_err: 0.36619047619
+test_err: 0.428888888889
+---
+learning a decision tree with max_depth=7
+train_err: 0.351904761905
+test_err: 0.42
+---
+learning a decision tree with max_depth=8
+train_err: 0.331904761905
+test_err: 0.397777777778
+---
+learning a decision tree with max_depth=9
+train_err: 0.319523809524
+test_err: 0.391111111111
+---
+learning a decision tree with max_depth=10
+train_err: 0.305238095238
+test_err: 0.39
+---
+learning a decision tree with max_depth=11
+train_err: 0.289523809524
+test_err: 0.39
+---
+learning a decision tree with max_depth=12
+train_err: 0.284761904762
+test_err: 0.391111111111
+---
+learning a decision tree with max_depth=13
+train_err: 0.280476190476
+test_err: 0.388888888889
+---
+learning a decision tree with max_depth=14
+train_err: 0.251428571429
+test_err: 0.392222222222
+---
+learning a decision tree with max_depth=15
+train_err: 0.242857142857
+test_err: 0.384444444444
+---
+learning a decision tree with max_depth=16
+train_err: 0.232857142857
+test_err: 0.384444444444
+---
+learning a decision tree with max_depth=17
+train_err: 0.222380952381
+test_err: 0.38
+---
+learning a decision tree with max_depth=18
+train_err: 0.211428571429
+test_err: 0.375555555556
+---
+learning a decision tree with max_depth=19
+train_err: 0.198571428571
+test_err: 0.381111111111
+---
+learning a decision tree with max_depth=20
+train_err: 0.185238095238
+test_err: 0.381111111111
+---
+learning a decision tree with max_depth=21
+train_err: 0.172857142857
+test_err: 0.378888888889
+---
+learning a decision tree with max_depth=22
+train_err: 0.163333333333
+test_err: 0.372222222222
+---
+learning a decision tree with max_depth=23
+train_err: 0.15380952381
+test_err: 0.382222222222
+---
+learning a decision tree with max_depth=24
+train_err: 0.14619047619
+test_err: 0.374444444444
+---
+learning a decision tree with max_depth=25
+train_err: 0.131904761905
+test_err: 0.368888888889
+---
+learning a decision tree with max_depth=26
+train_err: 0.132380952381
+test_err: 0.372222222222
+---
+learning a decision tree with max_depth=27
+train_err: 0.11619047619
+test_err: 0.371111111111
+---
+learning a decision tree with max_depth=28
+train_err: 0.108571428571
+test_err: 0.39
+---
+learning a decision tree with max_depth=29
+train_err: 0.110952380952
+test_err: 0.387777777778
+---
+learning a decision tree with max_depth=30
+train_err: 0.111904761905
+test_err: 0.375555555556
+---
+learning a decision tree with max_depth=31
+train_err: 0.0842857142857
+test_err: 0.377777777778
+---
+learning a decision tree with max_depth=32
+train_err: 0.097619047619
+test_err: 0.365555555556
+---
+learning a decision tree with max_depth=33
+train_err: 0.0804761904762
+test_err: 0.356666666667
+---
+learning a decision tree with max_depth=34
+train_err: 0.0666666666667
+test_err: 0.39
+---
+learning a decision tree with max_depth=35
+train_err: 0.07
+test_err: 0.358888888889
+---
+learning a decision tree with max_depth=36
+train_err: 0.0761904761905
+test_err: 0.374444444444
+---
+learning a decision tree with max_depth=37
+train_err: 0.0738095238095
+test_err: 0.376666666667
+---
+learning a decision tree with max_depth=38
+train_err: 0.0557142857143
+test_err: 0.375555555556
+---
+learning a decision tree with max_depth=39
+train_err: 0.0519047619048
+test_err: 0.381111111111
+---
+learning a decision tree with max_depth=40
+train_err: 0.0366666666667
+test_err: 0.396666666667
+---
+learning a decision tree with max_depth=41
+train_err: 0.0480952380952
+test_err: 0.362222222222
+---
+learning a decision tree with max_depth=42
+train_err: 0.0319047619048
+test_err: 0.395555555556
+---
+learning a decision tree with max_depth=43
+train_err: 0.0495238095238
+test_err: 0.368888888889
+---
+learning a decision tree with max_depth=44
+train_err: 0.0438095238095
+test_err: 0.366666666667
+---
+learning a decision tree with max_depth=45
+train_err: 0.0238095238095
+test_err: 0.388888888889
+---
+learning a decision tree with max_depth=46
+train_err: 0.0319047619048
+test_err: 0.381111111111
+---
+learning a decision tree with max_depth=47
+train_err: 0.0142857142857
+test_err: 0.397777777778
+---
+learning a decision tree with max_depth=48
+train_err: 0.012380952381
+test_err: 0.382222222222
+---
+learning a decision tree with max_depth=49
+train_err: 0.04
+test_err: 0.388888888889
+---
