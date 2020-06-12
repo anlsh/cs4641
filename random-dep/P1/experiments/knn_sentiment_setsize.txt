@@ -1,0 +1,123 @@
+training_set_max_size: 2100 
+
+learning a kNN classifier with training_set_size=210 (fixed n_neighbors=5)
+train_err: 0.247619047619
+test_err: 0.461904761905
+---
+learning a kNN classifier with training_set_size=273 (fixed n_neighbors=5)
+train_err: 0.271062271062
+test_err: 0.457875457875
+---
+learning a kNN classifier with training_set_size=336 (fixed n_neighbors=5)
+train_err: 0.25
+test_err: 0.425595238095
+---
+learning a kNN classifier with training_set_size=399 (fixed n_neighbors=5)
+train_err: 0.240601503759
+test_err: 0.418546365915
+---
+learning a kNN classifier with training_set_size=462 (fixed n_neighbors=5)
+train_err: 0.251082251082
+test_err: 0.409090909091
+---
+learning a kNN classifier with training_set_size=525 (fixed n_neighbors=5)
+train_err: 0.238095238095
+test_err: 0.398095238095
+---
+learning a kNN classifier with training_set_size=588 (fixed n_neighbors=5)
+train_err: 0.246598639456
+test_err: 0.387755102041
+---
+learning a kNN classifier with training_set_size=651 (fixed n_neighbors=5)
+train_err: 0.259600614439
+test_err: 0.405529953917
+---
+learning a kNN classifier with training_set_size=714 (fixed n_neighbors=5)
+train_err: 0.233893557423
+test_err: 0.399159663866
+---
+learning a kNN classifier with training_set_size=777 (fixed n_neighbors=5)
+train_err: 0.252252252252
+test_err: 0.41184041184
+---
+learning a kNN classifier with training_set_size=840 (fixed n_neighbors=5)
+train_err: 0.24880952381
+test_err: 0.416666666667
+---
+learning a kNN classifier with training_set_size=903 (fixed n_neighbors=5)
+train_err: 0.24584717608
+test_err: 0.42
+---
+learning a kNN classifier with training_set_size=966 (fixed n_neighbors=5)
+train_err: 0.265010351967
+test_err: 0.413333333333
+---
+learning a kNN classifier with training_set_size=1029 (fixed n_neighbors=5)
+train_err: 0.264334305151
+test_err: 0.423333333333
+---
+learning a kNN classifier with training_set_size=1092 (fixed n_neighbors=5)
+train_err: 0.275641025641
+test_err: 0.435555555556
+---
+learning a kNN classifier with training_set_size=1155 (fixed n_neighbors=5)
+train_err: 0.264935064935
+test_err: 0.425555555556
+---
+learning a kNN classifier with training_set_size=1218 (fixed n_neighbors=5)
+train_err: 0.23973727422
+test_err: 0.397777777778
+---
+learning a kNN classifier with training_set_size=1281 (fixed n_neighbors=5)
+train_err: 0.256830601093
+test_err: 0.416666666667
+---
+learning a kNN classifier with training_set_size=1344 (fixed n_neighbors=5)
+train_err: 0.252232142857
+test_err: 0.407777777778
+---
+learning a kNN classifier with training_set_size=1407 (fixed n_neighbors=5)
+train_err: 0.242359630419
+test_err: 0.42
+---
+learning a kNN classifier with training_set_size=1470 (fixed n_neighbors=5)
+train_err: 0.244217687075
+test_err: 0.402222222222
+---
+learning a kNN classifier with training_set_size=1533 (fixed n_neighbors=5)
+train_err: 0.25766470972
+test_err: 0.403333333333
+---
+learning a kNN classifier with training_set_size=1596 (fixed n_neighbors=5)
+train_err: 0.251253132832
+test_err: 0.402222222222
+---
+learning a kNN classifier with training_set_size=1659 (fixed n_neighbors=5)
+train_err: 0.257383966245
+test_err: 0.407777777778
+---
+learning a kNN classifier with training_set_size=1722 (fixed n_neighbors=5)
+train_err: 0.25493612079
+test_err: 0.407777777778
+---
+learning a kNN classifier with training_set_size=1785 (fixed n_neighbors=5)
+train_err: 0.263305322129
+test_err: 0.404444444444
+---
+learning a kNN classifier with training_set_size=1848 (fixed n_neighbors=5)
+train_err: 0.252705627706
+test_err: 0.402222222222
+---
+learning a kNN classifier with training_set_size=1911 (fixed n_neighbors=5)
+train_err: 0.254840397698
+test_err: 0.396666666667
+---
+learning a kNN classifier with training_set_size=1974 (fixed n_neighbors=5)
+train_err: 0.248226950355
+test_err: 0.387777777778
+---
+learning a kNN classifier with training_set_size=2037 (fixed n_neighbors=5)
+train_err: 0.249877270496
+test_err: 0.39
+---
+

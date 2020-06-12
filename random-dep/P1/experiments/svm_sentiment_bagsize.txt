@@ -1,0 +1,139 @@
+learning an SVM with bag_size=200 (fixed degree=3)
+train_err: 0.315238095238
+test_err: 0.393333333333
+---
+learning an SVM with bag_size=400 (fixed degree=3)
+train_err: 0.31619047619
+test_err: 0.381111111111
+---
+learning an SVM with bag_size=600 (fixed degree=3)
+train_err: 0.382380952381
+test_err: 0.422222222222
+---
+learning an SVM with bag_size=800 (fixed degree=3)
+train_err: 0.384285714286
+test_err: 0.427777777778
+---
+learning an SVM with bag_size=1000 (fixed degree=3)
+train_err: 0.380952380952
+test_err: 0.406666666667
+---
+learning an SVM with bag_size=1200 (fixed degree=3)
+train_err: 0.448095238095
+test_err: 0.497777777778
+---
+learning an SVM with bag_size=1400 (fixed degree=3)
+train_err: 0.479523809524
+test_err: 0.494444444444
+---
+learning an SVM with bag_size=1600 (fixed degree=3)
+train_err: 0.46619047619
+test_err: 0.481111111111
+---
+learning an SVM with bag_size=1800 (fixed degree=3)
+train_err: 0.368571428571
+test_err: 0.397777777778
+---
+learning an SVM with bag_size=2000 (fixed degree=3)
+train_err: 0.45619047619
+test_err: 0.503333333333
+---
+learning an SVM with bag_size=2200 (fixed degree=3)
+train_err: 0.402857142857
+test_err: 0.431111111111
+---
+learning an SVM with bag_size=2400 (fixed degree=3)
+train_err: 0.412857142857
+test_err: 0.437777777778
+---
+learning an SVM with bag_size=2600 (fixed degree=3)
+train_err: 0.489047619048
+test_err: 0.525555555556
+---
+learning an SVM with bag_size=2800 (fixed degree=3)
+train_err: 0.394761904762
+test_err: 0.425555555556
+---
+learning an SVM with bag_size=3000 (fixed degree=3)
+train_err: 0.495238095238
+test_err: 0.505555555556
+---
+learning an SVM with bag_size=3200 (fixed degree=3)
+train_err: 0.487142857143
+test_err: 0.506666666667
+---
+learning an SVM with bag_size=3400 (fixed degree=3)
+train_err: 0.488571428571
+test_err: 0.492222222222
+---
+learning an SVM with bag_size=3600 (fixed degree=3)
+train_err: 0.489523809524
+test_err: 0.503333333333
+---
+learning an SVM with bag_size=3800 (fixed degree=3)
+train_err: 0.468095238095
+test_err: 0.507777777778
+---
+learning an SVM with bag_size=4000 (fixed degree=3)
+train_err: 0.485714285714
+test_err: 0.528888888889
+---
+learning an SVM with bag_size=4200 (fixed degree=3)
+train_err: 0.490952380952
+test_err: 0.496666666667
+---
+learning an SVM with bag_size=4400 (fixed degree=3)
+train_err: 0.494285714286
+test_err: 0.513333333333
+---
+learning an SVM with bag_size=4600 (fixed degree=3)
+train_err: 0.497619047619
+test_err: 0.5
+---
+learning an SVM with bag_size=4800 (fixed degree=3)
+train_err: 0.495238095238
+test_err: 0.511111111111
+---
+learning an SVM with bag_size=5000 (fixed degree=3)
+train_err: 0.492380952381
+test_err: 0.517777777778
+---
+learning an SVM with bag_size=5200 (fixed degree=3)
+train_err: 0.498095238095
+test_err: 0.504444444444
+---
+learning an SVM with bag_size=5400 (fixed degree=3)
+train_err: 0.489523809524
+test_err: 0.518888888889
+---
+learning an SVM with bag_size=5600 (fixed degree=3)
+train_err: 0.495714285714
+test_err: 0.51
+---
+learning an SVM with bag_size=5800 (fixed degree=3)
+train_err: 0.499047619048
+test_err: 0.502222222222
+---
+learning an SVM with bag_size=6000 (fixed degree=3)
+train_err: 0.490476190476
+test_err: 0.522222222222
+---
+learning an SVM with bag_size=6200 (fixed degree=3)
+train_err: 0.491904761905
+test_err: 0.516666666667
+---
+learning an SVM with bag_size=6400 (fixed degree=3)
+train_err: 0.496666666667
+test_err: 0.507777777778
+---
+learning an SVM with bag_size=6600 (fixed degree=3)
+train_err: 0.497142857143
+test_err: 0.506666666667
+---
+learning an SVM with bag_size=6800 (fixed degree=3)
+train_err: 0.490476190476
+test_err: 0.522222222222
+---
+learning an SVM with bag_size=7000 (fixed degree=3)
+train_err: 0.487142857143
+test_err: 0.53

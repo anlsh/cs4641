@@ -1,0 +1,29 @@
+learning a decision tree with n_estimators=5 (fixed max_depth=10, bag_size=2500)
+train_err: 0.11619047619
+test_err: 0.367777777778
+---
+learning a decision tree with n_estimators=10 (fixed max_depth=10, bag_size=2500)
+train_err: 0.0161904761905
+test_err: 0.38
+---
+learning a decision tree with n_estimators=15 (fixed max_depth=10, bag_size=2500)
+train_err: 0.00047619047619
+test_err: 0.41
+---
+learning a decision tree with n_estimators=20 (fixed max_depth=10, bag_size=2500)
+train_err: 0.00047619047619
+test_err: 0.427777777778
+---
+learning a decision tree with n_estimators=25 (fixed max_depth=10, bag_size=2500)
+train_err: 0.00047619047619
+test_err: 0.402222222222
+---
+learning a decision tree with n_estimators=30 (fixed max_depth=10, bag_size=2500)
+train_err: 0.00047619047619
+test_err: 0.423333333333
+---
+learning a decision tree with n_estimators=35 (fixed max_depth=10, bag_size=2500)
+train_err: 0.00047619047619
+test_err: 0.408888888889
+---
+

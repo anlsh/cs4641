@@ -1,0 +1,122 @@
+training_set_max_size: 2100 
+
+learning a decision tree with training_set_size=210 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.485714285714
+---
+learning a decision tree with training_set_size=273 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.43956043956
+---
+learning a decision tree with training_set_size=336 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.46130952381
+---
+learning a decision tree with training_set_size=399 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.411027568922
+---
+learning a decision tree with training_set_size=462 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.419913419913
+---
+learning a decision tree with training_set_size=525 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.417142857143
+---
+learning a decision tree with training_set_size=588 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.430272108844
+---
+learning a decision tree with training_set_size=651 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.393241167435
+---
+learning a decision tree with training_set_size=714 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.411764705882
+---
+learning a decision tree with training_set_size=777 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.431145431145
+---
+learning a decision tree with training_set_size=840 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.444047619048
+---
+learning a decision tree with training_set_size=903 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.407777777778
+---
+learning a decision tree with training_set_size=966 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.423333333333
+---
+learning a decision tree with training_set_size=1029 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.416666666667
+---
+learning a decision tree with training_set_size=1092 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.433333333333
+---
+learning a decision tree with training_set_size=1155 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.425555555556
+---
+learning a decision tree with training_set_size=1218 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.397777777778
+---
+learning a decision tree with training_set_size=1281 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.41
+---
+learning a decision tree with training_set_size=1344 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.42
+---
+learning a decision tree with training_set_size=1407 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0
+test_err: 0.425555555556
+---
+learning a decision tree with training_set_size=1470 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.00544217687075
+test_err: 0.401111111111
+---
+learning a decision tree with training_set_size=1533 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.00130463144162
+test_err: 0.408888888889
+---
+learning a decision tree with training_set_size=1596 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.00751879699248
+test_err: 0.406666666667
+---
+learning a decision tree with training_set_size=1659 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.00964436407474
+test_err: 0.402222222222
+---
+learning a decision tree with training_set_size=1722 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.00813008130081
+test_err: 0.416666666667
+---
+learning a decision tree with training_set_size=1785 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0151260504202
+test_err: 0.402222222222
+---
+learning a decision tree with training_set_size=1848 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0140692640693
+test_err: 0.377777777778
+---
+learning a decision tree with training_set_size=1911 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.003663003663
+test_err: 0.407777777778
+---
+learning a decision tree with training_set_size=1974 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0141843971631
+test_err: 0.392222222222
+---
+learning a decision tree with training_set_size=2037 (fixed max_depth=10, n_estimators=10, bag_size=2500)
+train_err: 0.0319096710849
+test_err: 0.381111111111
+---

@@ -1,0 +1,62 @@
+training_set_max_size: 40000 
+
+learning an SVM with training_set_size=4000
+train_err: 0.0
+test_err: 14.5205
+---
+learning an SVM with training_set_size=6000
+train_err: 0.0
+test_err: 8.54866666667
+---
+learning an SVM with training_set_size=8000
+train_err: 0.0
+test_err: 8.53
+---
+learning an SVM with training_set_size=10000
+train_err: 0.0
+test_err: 8.5551
+---
+learning an SVM with training_set_size=12000
+train_err: 0.0
+test_err: 8.55375
+---
+learning an SVM with training_set_size=14000
+train_err: 0.0
+test_err: 8.53471428571
+---
+learning an SVM with training_set_size=16000
+train_err: 0.0
+test_err: 8.5634375
+---
+learning an SVM with training_set_size=18000
+train_err: 0.0
+test_err: 8.53927777778
+---
+learning an SVM with training_set_size=20000
+train_err: 0.0
+test_err: 8.5235
+---
+learning an SVM with training_set_size=22000
+train_err: 0.0
+test_err: 14.5295
+---
+learning an SVM with training_set_size=24000
+train_err: 0.0
+test_err: 14.5295
+---
+learning an SVM with training_set_size=26000
+train_err: 0.0
+test_err: 14.5295
+---
+learning an SVM with training_set_size=28000
+train_err: 0.0
+test_err: 10.5215
+---
+learning an SVM with training_set_size=30000
+train_err: 0.0
+test_err: 10.5215
+---
+learning an SVM with training_set_size=32000
+train_err: 0.0
+test_err: 10.3223
+---

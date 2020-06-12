@@ -1,0 +1,38 @@
+training_set_max_size: 40000 
+
+learning a kNN classifier with training_set_size=4000
+train_err: 9.98125
+test_err: 12.21825
+---
+learning a kNN classifier with training_set_size=8000
+train_err: 9.380625
+test_err: 12.375125
+---
+learning a kNN classifier with training_set_size=12000
+train_err: 8.95366666667
+test_err: 12.0344166667
+---
+learning a kNN classifier with training_set_size=16000
+train_err: 9.20125
+test_err: 12.05
+---
+learning a kNN classifier with training_set_size=20000
+train_err: 9.1986
+test_err: 11.86345
+---
+learning a kNN classifier with training_set_size=24000
+train_err: 9.23520833333
+test_err: 11.8549
+---
+learning a kNN classifier with training_set_size=28000
+train_err: 9.15932142857
+test_err: 11.623
+---
+learning a kNN classifier with training_set_size=32000
+train_err: 8.99459375
+test_err: 11.54695
+---
+learning a kNN classifier with training_set_size=36000
+train_err: 8.84341666667
+test_err: 11.4943
+---
